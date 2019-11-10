@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 78.0.3904 (Windows 10.0.0)" package="" timestamp="2019-10-24T18:22:58" id="0" hostname="METHRAX" tests="3" errors="0" failures="0" time="0.49">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should create the app" time="0.292" classname="AppComponent"/>
+  <testcase name="AppComponent should have as title 'unit-test'" time="0.115" classname="AppComponent"/>
+  <testcase name="AppComponent should render title in a h1 tag" time="0.083" classname="AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
